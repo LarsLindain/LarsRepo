@@ -5,7 +5,7 @@ description: Home Page
 hide: true
 ---
 
-<div style="border-color:Grey;">
+<div style="padding:16px;color:#fff;background-color:#f2ebf0">
     <h2>Submenu</h2>
         <a href="http://127.0.0.1:4100/LarsRepo/miniproject/">
         <button type="button" style="border-color:Grey;color:Grey;">Mini Project
@@ -17,6 +17,10 @@ hide: true
          </a>
          <a href="http://127.0.0.1:4100/LarsRepo/progress/">
         <button type="button" style="border-color:Grey;color:Grey;">My Progress
+        </button>
+         </a>
+         <a href="python3 snake_game.py">
+        <button type="button" style="border-color:Grey;color:Grey;">Snake Game
         </button>
          </a>
 </div>
@@ -62,3 +66,11 @@ I am a senior in high school and take Ap Comupter Science Princles. I joined the
 <p>Alongside music, during my free time I enojoy watching shows and 3D Modeling. I am also quite new to 3D modeling but I have gain interest recently so the second button opens Blender.</p>
 
 ---
+
+<script src="https://utteranc.es/client.js"
+        repo="LarsLindain/LarsRepo"
+        issue-term="pathname"
+        theme="github-light" 
+        crossorigin="anonymous"
+        async>
+</script>
