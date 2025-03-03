@@ -41,18 +41,6 @@ async function create_User() {
             body: JSON.stringify(data),
         });
 
-        const result = await response.json();
-
-        if (response.ok) {
-            alert("Data saved successfully!");
-            console.log(result); // Optional: Log the response
-        } else {
-            alert(`Error: ${result.error}`);
-        }
-    } catch (error) {
-        console.error("Error:", error);
-        alert("Failed to connect to the server.");
-    }
 }
 ```
 
@@ -72,40 +60,6 @@ async function fetch_Data() {
             },
         });
 
-        if (response.ok) {
-            const data = await response.json();
-
-            // Loop through the data to populate rows
-            data.forEach((item) => {
-                const row = document.createElement("tr");
-
-                // Add Name cell
-                const nameCell = document.createElement("td");
-                nameCell.textContent = item.name;
-                row.appendChild(nameCell);
-
-                // Add Score cell
-                const scoreCell = document.createElement("td");
-                scoreCell.textContent = item.score;
-                row.appendChild(scoreCell);
-
-                // Add Action cell with delete button
-                const actionCell = document.createElement("td");
-                const deleteButton = document.createElement("button");
-                deleteButton.textContent = "Delete";
-                deleteButton.onclick = () => delete_User(item.id); // Pass the ID to the delete function
-                actionCell.appendChild(deleteButton);
-                row.appendChild(actionCell);
-
-                // Append the row to the table body
-                tableBody.appendChild(row);
-            });
-        } else {
-            console.error("Failed to fetch data:", await response.text());
-        }
-    } catch (error) {
-        console.error("Error fetching data:", error);
-    }
 }
 ```
 
