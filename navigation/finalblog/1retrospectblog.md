@@ -100,3 +100,6 @@ I made 2 main features during this TRI, both using full API integration and appl
 <img src="https://i.postimg.cc/zfm6WPD3/Screenshot-2025-03-03-at-2-29-59-AM.png" alt="Binary Overflow" width="600">
 
 <p>After rebranding our groups site, I used what I learned from my logic gates feature to create a new feature that implamented a post mechanism that is used for you and others to see. I worked with Vincent to create a page called Binary Overflow, inspired by the popualr site StackOverflow. The Core idea is the same, with users able to create, read, update, and delete posts sent to the site for the community to talk about binary topics.</p>
+
+
+<td><a href="/LarsRepo/finalblog2" class="button">Continue to Project Brief
