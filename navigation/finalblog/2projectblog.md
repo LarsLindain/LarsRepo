@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tri 2 Final Blog Continue..
+title: Tri 2 Final Blog Continue..(2)
 permalink: /finalblog2
 ---
 
@@ -92,3 +92,5 @@ class BinaryOverflowContent(db.Model):
 <img src="https://i.postimg.cc/9MW80257/Screenshot-2025-03-03-at-10-11-44-AM.png" alt="MCQ score" width="600">
 
 <img src="https://i.postimg.cc/RZKXThvt/Screenshot-2025-03-03-at-10-15-58-AM.png" alt="MCQ Breakdown" width="600">
+
+<td><a href="/LarsRepo/finalblog3" class="button">Continue to Retrospecitive
