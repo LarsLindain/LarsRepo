@@ -99,3 +99,22 @@ class fetch_frontend(Resource):
 
 <h2> Conclusion</h2>
 <p>Completing the <strong>BinaryOverflow Blog</strong> helped me develop strong <em>full-stack skills</em>, including <strong>database management, API integration, and frontend optimization</strong>. This PPR has helped me reflect on how <strong>lists and procedures</strong> play a crucial role in managing <em>large-scale web applications</em>.</p>
+
+
+<h2> MCQ Recap</h2>
+
+<p>After taking the Tri 2 MCQ I would say I have made progress since the previous MCQ done eariler this trimester, but am I not where I want to be by the end of the year.</p>
+
+<img src="https://i.postimg.cc/9MW80257/Screenshot-2025-03-03-at-10-11-44-AM.png" alt="MCQ score" width="600">
+
+<img src="https://i.postimg.cc/RZKXThvt/Screenshot-2025-03-03-at-10-15-58-AM.png" alt="MCQ Breakdown" width="600">
+
+<h3>Worst topic rates</h3>
+
+<p><strong> Identifying and Correcting Errors</strong> was my lowest preforming topic.</p>
+
+<img src="https://i.postimg.cc/QVG34HCN/Screenshot-2025-03-11-at-12-34-51-AM.png" alt="EX q1" width="600">
+
+<img src=" https://i.postimg.cc/JnxxYghs/Screenshot-2025-03-11-at-12-36-28-AM.png" alt="Ex q2" width="600">
+
+<p> To improve on this topics, I will study how to break down and analyze code blocks and find how why they would/ would not work. Example such as the question above that I had gotten wrong would help as they not only show the correct answer, but also state why the chosen answer was incorrect and what it would change instead.</p> 
