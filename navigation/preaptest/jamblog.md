@@ -35,6 +35,8 @@ These notes are orgainzed in order of presentation date. </p>
 
 <h2> 5.2 The Digital Divide </h2>
 
+<img src="https://i.postimg.cc/tR1bVrnr/image-2025-04-24-094804641.png" alt="Digital Divide" width="500" height="300">
+
 <p>Digital Divide Overview</p>  
 - Technology access is uneven, especially in rural and low-income areas.  
 - This gap limits opportunities in education, employment, healthcare, and community involvement.  
