@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tri 2 Final Blog Continue..(3)
+title: Tri 3 Final Blog Continue..(3)
 permalink: /finalblog3
 ---
 
